@@ -18,30 +18,32 @@ A comprehensive collection of Data Structure implementations in Python. This rep
 - Stack Implementation Using Class
 - Balanced Parentheses Checker
 - Reverse String Using Stack
-- Decimal to Binary Using Stack *(Coming Soon)*
+- Decimal to Binary Using Stack 
+- ### 5. Decimal to Binary Using Stack
+A Python program that converts a decimal number to its binary representation using stack operations.
 
-### Queue *(Coming Soon)*
+### Queue 
 - Queue Basics
 - Queue Using Class
 - Circular Queue
 - Priority Queue
 
-### Linked List *(Coming Soon)*
+### Linked List 
 - Singly Linked List
 - Doubly Linked List
 - Circular Linked List
 
-### Trees *(Coming Soon)*
+### Trees 
 - Binary Tree
 - Binary Search Tree (BST)
 - Tree Traversals
 
-### Graphs *(Coming Soon)*
+### Graphs 
 - Graph Representation
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
 
-### Hashing *(Coming Soon)*
+### Hashing 
 - Hash Table Basics
 - Dictionary-Based Implementations
 

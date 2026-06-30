@@ -25,6 +25,22 @@ A Python program that converts a decimal number to its binary representation usi
 ### Queue 
 - Queue Basics
 - Queue Using Class
+### 2. Queue Using Class
+
+A Python implementation of a Queue using object-oriented programming. The program demonstrates the core queue operations:
+
+- Enqueue
+- Dequeue
+- Peek
+- Check if Queue is Empty
+- Display Queue
+
+#### Concepts Covered
+
+- Queue ADT
+- FIFO (First In, First Out)
+- Classes & Objects
+- List-based Queue Implementation
 - Circular Queue
 - Priority Queue
 

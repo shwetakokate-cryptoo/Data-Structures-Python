@@ -43,6 +43,23 @@ A Python implementation of a Queue using object-oriented programming. The progra
 - List-based Queue Implementation
 - Circular Queue
 - Priority Queue
+  ### 4. Priority Queue
+
+A Python implementation of a Priority Queue where elements are processed according to their priority instead of insertion order.
+
+#### Features
+
+- Enqueue with Priority
+- Dequeue Highest Priority Element
+- Peek Operation
+- Display Queue
+
+#### Concepts Covered
+
+- Priority Queue
+- Sorting
+- Tuples
+- Queue ADT
 
 ### Linked List 
 - Singly Linked List

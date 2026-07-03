@@ -61,6 +61,25 @@ A Python implementation of a Priority Queue where elements are processed accordi
 - Tuples
 - Queue ADT
 
+### 5. Deque (Double-Ended Queue)
+
+A Python implementation demonstrating the use of `collections.deque` for efficient insertion and deletion from both ends.
+
+#### Features
+
+- Insert at Front
+- Insert at Rear
+- Delete from Front
+- Delete from Rear
+- Display Deque
+
+#### Concepts Covered
+
+- Deque
+- Double-Ended Queue
+- `collections.deque`
+- Queue Operations
+
 ### Linked List 
 - Singly Linked List
 - Doubly Linked List

@@ -82,6 +82,22 @@ A Python implementation demonstrating the use of `collections.deque` for efficie
 
 ### Linked List 
 - Singly Linked List
+### 1. Singly Linked List
+
+A Python implementation of a Singly Linked List with insertion and traversal operations.
+
+#### Features
+
+- Create Nodes
+- Insert at End
+- Display Linked List
+
+#### Concepts Covered
+
+- Node
+- Head Pointer
+- Linked List Traversal
+- Dynamic Memory Concept
 - Doubly Linked List
 - Circular Linked List
 

@@ -98,8 +98,48 @@ A Python implementation of a Singly Linked List with insertion and traversal ope
 - Head Pointer
 - Linked List Traversal
 - Dynamic Memory Concept
+
+  ### 2. Linked List Insert Operations
+
+A Python implementation of insertion operations in a Singly Linked List.
+
+#### Features
+
+- Insert at Beginning
+- Insert at End
+- Insert at Specific Position
+- Display Linked List
+
+#### Concepts Covered
+
+- Node Insertion
+- Head Manipulation
+- Pointer Traversal
+- Position-Based Insertion
+
+
+### 3. Linked List Delete Operations
+
+A Python implementation of common deletion operations in a Singly Linked List.
+
+#### Features
+
+- Delete from Beginning
+- Delete from End
+- Delete by Value
+- Display Linked List
+
+#### Concepts Covered
+
+- Node Deletion
+- Pointer Updates
+- Linked List Traversal
+- Edge Case Handling
+  
 - Doubly Linked List
 - Circular Linked List
+
+
 
 ### Trees 
 - Binary Tree

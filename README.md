@@ -138,7 +138,24 @@ A Python implementation of common deletion operations in a Singly Linked List.
   
 - Doubly Linked List
 - Circular Linked List
+  
+### 5. Reverse Linked List
 
+A Python implementation of reversing a Singly Linked List using the three-pointer technique.
+
+#### Features
+
+- Insert at End
+- Reverse Linked List
+- Display Linked List
+
+#### Concepts Covered
+
+- Pointer Manipulation
+- Three-Pointer Technique
+- In-Place Reversal
+- O(n) Time Complexity
+- O(1) Space Complexity
 
 
 ### Trees 

@@ -160,6 +160,24 @@ A Python implementation of reversing a Singly Linked List using the three-pointe
 
 ### Trees 
 - Binary Tree
+
+### 1. Binary Tree Basics
+
+A Python implementation demonstrating the basic structure of a Binary Tree and preorder traversal.
+
+#### Features
+
+- Create Tree Nodes
+- Build a Binary Tree
+- Preorder Traversal
+
+#### Concepts Covered
+
+- Root Node
+- Parent & Child Nodes
+- Leaf Nodes
+- Binary Tree
+- Recursive Traversal
 - Binary Search Tree (BST)
 - Tree Traversals
 

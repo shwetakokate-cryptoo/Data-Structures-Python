@@ -198,6 +198,27 @@ A Python implementation of the three fundamental Depth-First Search (DFS) traver
 - Depth-First Search (DFS)
 - Recursion
 - Tree Traversal Algorithms
+
+  ### 4. Binary Search Tree (BST)
+
+A Python implementation of a Binary Search Tree with insertion, searching, and inorder traversal.
+
+#### Features
+
+- Insert Nodes
+- Search Nodes
+- Inorder Traversal
+- Recursive Implementation
+
+#### Concepts Covered
+
+- Binary Search Tree (BST)
+- Recursion
+- Binary Search
+- Tree Traversal
+- Sorted Data
+
+  
 ### Graphs 
 - Graph Representation
 - Breadth-First Search (BFS)
